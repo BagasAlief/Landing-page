@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+}
+
+.carousel-inner{
+    height: 1200px;
+    width: 1400px;
+    display: flex;
+}
+
+#about{
+    padding: 2rem 1rem;
+    background-color: black;
+}
+
+.DPR{
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+
+.garis{
+    background-color: black;
+}
+
+#katalog{
+    background-color: black;
+    margin-top: 3rem;
+}    
+  
+#video {
+    padding-bottom: 4rem;
+    margin-top: 3rem;
+}
+    
+.container {
+    border: 3rem;
+}
+  
+#saran {
+    padding: 10rem;
+}
+  
+footer {
+    background-color: black;
+    justify-content: center;
+}
+  
+#footers {
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+  
+.footer-social {
+    justify-content: center;
+}
